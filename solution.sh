@@ -9,10 +9,10 @@ hostname -I
 cat readme.txt
 
 # 4. Count the number of lines in "data.csv"
-wc -I data.csv
+wc -l data.csv
 
 # 5. Find all files containing the word "error" in the "logs" folder
-grep -I "error" logs/
+grep -rl "error" logs/
 
 # 6. Display the last 10 lines of "app.log"
 tail -n 10 app.log

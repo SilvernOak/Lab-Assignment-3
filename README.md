@@ -1,8 +1,8 @@
 # Lab-Assignment-3
 
 # About Me:
-My name is Shashank
-I was born in Hyderabad
+My name is Shashank  
+I was born in Hyderabad  
 I love playing badminton, video games and listening to music
 
 # What I Like About Git:
